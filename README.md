@@ -47,7 +47,7 @@ Completar la tarea que fui asignado a hacer.
 ## :large_blue_diamond: Funciones_virtuales.cpp
 
 ![](imagenes/Funciones_virtuales_codigo.png)
-![](imagenes/Funciones_virtuales.png)
+![](imagenes/Funciones_Virtuales.png)
 
 ---
 
@@ -62,7 +62,7 @@ Completar la tarea que fui asignado a hacer.
 ## :large_orange_diamond: Telefono.cpp
 
 ![](imagenes/telefono_codigo.png)
-![](imagenes/telefono.png)
+![](imagenes/Telefono.png)
 
 
 ---
