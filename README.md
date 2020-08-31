@@ -3,7 +3,7 @@
 ## :copyright: Autor
 
 - :camera: <img src="https://avatars0.githubusercontent.com/u/60484138?s=400&v=4" width="160px">
-- :young_man: **Martin Nelbren Cuellar**
+- :boy: **Felipe Lin Zhao**
 - :e-mail: felipelinchiu321@gmail.com
 - :link: [github.com/Perz1vaI](https://github.com/Perz1vaI)
 - :calendar: 2020-08-30 18:00 CST
@@ -74,37 +74,10 @@ Completar la tarea que fui asignado a hacer.
 
 ---
 
-##  :black_large_square:  Windows.hpp
-
-![](imagenes/Windows.hpp.png)
-
-## :black_medium_small_square: Windows.cpp
-
-![](imagenes/Windows.cpp.png)
-
----
-
-## :white_circle: Makefile
-
-![](imagenes/Makefile.png)
-
-## :white_circle: Build.bash.bat
-
-![](imagenes/Build.bash.bat.png)
-
-## :red_circle: Salida - dynamic_cast
-
-![](imagenes/Salida-dynamic_cast.png)
-
-## :large_blue_circle: Salida - static_cast
-
-![](imagenes/Salida-static_cast.png)
-
----
 
 ## :computer: Código
 
-- :blue_book: [Ejemplo-de-static_cast-vs-dynamic_cast](https://github.com/nelbren/Ejemplo-de-static_cast-vs-dynamic_cast)
+- :blue_book: [Punto de control #6](https://github.com/Perz1vaI/C-_PDC_-06)
 
 ---
 #### Herramientas:
